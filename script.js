@@ -1,7 +1,7 @@
 //Jogo em JavaScript,CSS e HTML
 //Desenvolvido por felipe Mulero
 
-const dino = document.querySelector('.dino');
+const dino = document.querySelector('.dinoRex');
 const background = document.querySelector('.background');
 
 let isJumping = false;
